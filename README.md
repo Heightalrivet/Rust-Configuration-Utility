@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Rust-Configuration-Utility` · Updated: 2026-10-07
+`Rust-Configuration-Utility` · Updated: 2026-10-24
 
 **Tags:** `rust` `config-manager` `settings` `survival` `steam`
